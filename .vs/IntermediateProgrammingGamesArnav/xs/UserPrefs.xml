@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{CA2F7600-7187-1A9D-B114-8083BE71084D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/BorderBor.cs">
+    <Files>
+      <File FileName="Assets/ShootObject.cs" Line="29" Column="37" />
+      <File FileName="Assets/BorderBor.cs" Line="18" Column="13" />
+      <File FileName="Assets/MoveShoot.cs" Line="32" Column="10" />
+      <File FileName="Assets/PlayerMove.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntermediateProgrammingGamesArnav" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="BorderBor.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f70f35e6-f36f-4ce3-843d-2fcd9398f398" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
